@@ -1,6 +1,8 @@
 const ModelView = () => {
   return (
-    <section className="flex">ModelView</section>
+    <section className="flex">
+      <div></div>
+    </section>
   )
 }
 
